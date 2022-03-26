@@ -171,7 +171,7 @@ while True:
     except EOFError:
         continue
     print("---------------------------------------------------------------------------")
-    print("              RESULTADO DEL ANALIZADOR LEXICO Y SEMANTICO")
+    print("              RESULTADO DEL ANALIZADOR LEXICO, SINTACTICO Y SEMANTICO")
     print("---------------------------------------------------------------------------")
     print("Si desea calcular otro dato lo puede ingresar en el archivo content.txt")
     print("---------------------------------------------------------------------------")
