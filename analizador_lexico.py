@@ -254,3 +254,4 @@ while True:
     print("                   RESULTADO DEL ANALIZADOR LEXICO")
     print("---------------------------------------------------------------------------")
     print(resultado_lexema)
+    break
